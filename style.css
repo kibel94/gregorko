@@ -1,0 +1,41 @@
+html {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Na1{
+    text-align: center;
+}
+.lo1{
+    text-align: center;
+    
+}
+
+.lo2 {
+    
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 600px;
+    
+}
+
+.images{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+}
+.image1 {
+    height: 400px;
+    width: 300px;
+    
+}
+.image2 {
+    height: 400px;
+    width:300px;
+    
+}
+.image3 {
+    height: 400px;
+    width: 300px;
+    
+}
